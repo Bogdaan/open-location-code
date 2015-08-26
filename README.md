@@ -1,3 +1,7 @@
+[![Build
+Status](https://secure.travis-ci.org/Bogdaan/Distance.png)](http://travis-ci.org/Bogdaan/open-location-code)
+
+
 # Open location code for php
 
 > Open Location Codes are a way of encoding location into a form that is easier to use than latitude and longitude.
