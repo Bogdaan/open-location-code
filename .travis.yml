@@ -11,3 +11,5 @@ sudo: false
 
 matrix:
   fast_finish: true
+
+script: phpunit --bootstrap ./tests/bootstrap.php ./tests
