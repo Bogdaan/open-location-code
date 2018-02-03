@@ -1,5 +1,5 @@
 [![Build
-Status](https://secure.travis-ci.org/Bogdaan/Distance.png)](http://travis-ci.org/Bogdaan/open-location-code)
+Status](https://secure.travis-ci.org/Bogdaan/open-location-code.png)](http://travis-ci.org/Bogdaan/open-location-code)
 
 
 # Open location code for php
@@ -13,7 +13,7 @@ Status](https://secure.travis-ci.org/Bogdaan/Distance.png)](http://travis-ci.org
 > A location can be converted into a code, and a code can be converted back to a location completely offline.
 
 
-Based on javascript version from [this repo](https://github.com/google/open-location-code/blob/master/js/openlocationcode.js).
+Based on javascript version from [this repo](https://github.com/google/open-location-code).
 
 # Usage
 
